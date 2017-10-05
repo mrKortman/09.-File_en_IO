@@ -1,0 +1,8 @@
+﻿Hallo allemaal dit is het eerste tekst bestand dat ik 
+ga gebruiken inn visual studio om jullie te laten zien
+dat het helemaal niet zo moeilijk is om een bestandje
+met wat tekst er in te openen en uit te lezen
+
+Later gaan we er ook nog wat aan toe voegen, dat doen we hier :
+...
+dwkmadkwoapo
